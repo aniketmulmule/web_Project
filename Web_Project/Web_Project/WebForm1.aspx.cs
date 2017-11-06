@@ -13,5 +13,10 @@ namespace Web_Project
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            //this is button click code
+        }
     }
 }
