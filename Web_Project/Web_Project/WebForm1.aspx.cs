@@ -17,8 +17,8 @@ namespace Web_Project
         protected void Button1_Click(object sender, EventArgs e)
         {
 
-            //this modification done by user1
-
+         
+            Button1.Visible = false;
         }
     }
 }
