@@ -26,7 +26,7 @@ namespace Web_Project
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-
+            Button1.Visible = true;
         }
     }
 }
