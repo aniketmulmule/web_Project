@@ -18,6 +18,7 @@ namespace Web_Project
         {
 
             //this modification done by user1
+            Button1.Visible = false;
 
         }
     }
